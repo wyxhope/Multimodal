@@ -1,0 +1,16 @@
+numpy
+Pillow
+matplotlib
+torch
+torchvision
+diffusers
+transformers
+accelerate
+safetensors
+huggingface-hub
+datasets
+python-dotenv
+timm
+opencv-python
+pycocotools
+segment-anything==1.0

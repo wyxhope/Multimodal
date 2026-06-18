@@ -1,0 +1,402 @@
+[
+  {
+    "id": "magicbrush_0000",
+    "image": "images/magicbrush_0000.png",
+    "target_mask": "masks/magicbrush_0000_mask.png",
+    "instruction": "edit some mountains in the background",
+    "target_image": "targets/magicbrush_0000_target.png",
+    "mask_semantics": "white_edit"
+  },
+  {
+    "id": "magicbrush_0001",
+    "image": "images/magicbrush_0001.png",
+    "target_mask": "masks/magicbrush_0001_mask.png",
+    "instruction": "put the zebras next to a river",
+    "target_image": "targets/magicbrush_0001_target.png",
+    "mask_semantics": "white_edit"
+  },
+  {
+    "id": "magicbrush_0002",
+    "image": "images/magicbrush_0002.png",
+    "target_mask": "masks/magicbrush_0002_mask.png",
+    "instruction": "Make the piece of paper hanging on the wall a mirror",
+    "target_image": "targets/magicbrush_0002_target.png",
+    "mask_semantics": "white_edit"
+  },
+  {
+    "id": "magicbrush_0003",
+    "image": "images/magicbrush_0003.png",
+    "target_mask": "masks/magicbrush_0003_mask.png",
+    "instruction": "put an Easter basket on the desk",
+    "target_image": "targets/magicbrush_0003_target.png",
+    "mask_semantics": "white_edit"
+  },
+  {
+    "id": "magicbrush_0004",
+    "image": "images/magicbrush_0004.png",
+    "target_mask": "masks/magicbrush_0004_mask.png",
+    "instruction": "What if the man was bald",
+    "target_image": "targets/magicbrush_0004_target.png",
+    "mask_semantics": "white_edit"
+  },
+  {
+    "id": "magicbrush_0005",
+    "image": "images/magicbrush_0005.png",
+    "target_mask": "masks/magicbrush_0005_mask.png",
+    "instruction": "what if he had a angry mouth?",
+    "target_image": "targets/magicbrush_0005_target.png",
+    "mask_semantics": "white_edit"
+  },
+  {
+    "id": "magicbrush_0006",
+    "image": "images/magicbrush_0006.png",
+    "target_mask": "masks/magicbrush_0006_mask.png",
+    "instruction": "Have there be a dolphin jumping out of the water",
+    "target_image": "targets/magicbrush_0006_target.png",
+    "mask_semantics": "white_edit"
+  },
+  {
+    "id": "magicbrush_0007",
+    "image": "images/magicbrush_0007.png",
+    "target_mask": "masks/magicbrush_0007_mask.png",
+    "instruction": "replace the baseball bat for a laser sword",
+    "target_image": "targets/magicbrush_0007_target.png",
+    "mask_semantics": "white_edit"
+  },
+  {
+    "id": "magicbrush_0008",
+    "image": "images/magicbrush_0008.png",
+    "target_mask": "masks/magicbrush_0008_mask.png",
+    "instruction": "switch to a robot wearing armor",
+    "target_image": "targets/magicbrush_0008_target.png",
+    "mask_semantics": "white_edit"
+  },
+  {
+    "id": "magicbrush_0009",
+    "image": "images/magicbrush_0009.png",
+    "target_mask": "masks/magicbrush_0009_mask.png",
+    "instruction": "make the cow smile",
+    "target_image": "targets/magicbrush_0009_target.png",
+    "mask_semantics": "white_edit"
+  },
+  {
+    "id": "magicbrush_0010",
+    "image": "images/magicbrush_0010.png",
+    "target_mask": "masks/magicbrush_0010_mask.png",
+    "instruction": "make the cow lift its leg up",
+    "target_image": "targets/magicbrush_0010_target.png",
+    "mask_semantics": "white_edit"
+  },
+  {
+    "id": "magicbrush_0011",
+    "image": "images/magicbrush_0011.png",
+    "target_mask": "masks/magicbrush_0011_mask.png",
+    "instruction": "let there be an old Greek monument",
+    "target_image": "targets/magicbrush_0011_target.png",
+    "mask_semantics": "white_edit"
+  },
+  {
+    "id": "magicbrush_0012",
+    "image": "images/magicbrush_0012.png",
+    "target_mask": "masks/magicbrush_0012_mask.png",
+    "instruction": "change the dog for a cat",
+    "target_image": "targets/magicbrush_0012_target.png",
+    "mask_semantics": "white_edit"
+  },
+  {
+    "id": "magicbrush_0013",
+    "image": "images/magicbrush_0013.png",
+    "target_mask": "masks/magicbrush_0013_mask.png",
+    "instruction": "change the background to a river",
+    "target_image": "targets/magicbrush_0013_target.png",
+    "mask_semantics": "white_edit"
+  },
+  {
+    "id": "magicbrush_0014",
+    "image": "images/magicbrush_0014.png",
+    "target_mask": "masks/magicbrush_0014_mask.png",
+    "instruction": "swap the cupcake with a piece of cake",
+    "target_image": "targets/magicbrush_0014_target.png",
+    "mask_semantics": "white_edit"
+  },
+  {
+    "id": "magicbrush_0015",
+    "image": "images/magicbrush_0015.png",
+    "target_mask": "masks/magicbrush_0015_mask.png",
+    "instruction": "turn the cell phone into a banana",
+    "target_image": "targets/magicbrush_0015_target.png",
+    "mask_semantics": "white_edit"
+  },
+  {
+    "id": "magicbrush_0016",
+    "image": "images/magicbrush_0016.png",
+    "target_mask": "masks/magicbrush_0016_mask.png",
+    "instruction": "Let the faucet be turned on.",
+    "target_image": "targets/magicbrush_0016_target.png",
+    "mask_semantics": "white_edit"
+  },
+  {
+    "id": "magicbrush_0017",
+    "image": "images/magicbrush_0017.png",
+    "target_mask": "masks/magicbrush_0017_mask.png",
+    "instruction": "have the person jump over a tennis ball.",
+    "target_image": "targets/magicbrush_0017_target.png",
+    "mask_semantics": "white_edit"
+  },
+  {
+    "id": "magicbrush_0018",
+    "image": "images/magicbrush_0018.png",
+    "target_mask": "masks/magicbrush_0018_mask.png",
+    "instruction": "Have the person swing the racquet between his legs",
+    "target_image": "targets/magicbrush_0018_target.png",
+    "mask_semantics": "white_edit"
+  },
+  {
+    "id": "magicbrush_0019",
+    "image": "images/magicbrush_0019.png",
+    "target_mask": "masks/magicbrush_0019_mask.png",
+    "instruction": "place a bag on the court",
+    "target_image": "targets/magicbrush_0019_target.png",
+    "mask_semantics": "white_edit"
+  },
+  {
+    "id": "magicbrush_0020",
+    "image": "images/magicbrush_0020.png",
+    "target_mask": "masks/magicbrush_0020_mask.png",
+    "instruction": "Add a cruise ship to the ocean.",
+    "target_image": "targets/magicbrush_0020_target.png",
+    "mask_semantics": "white_edit"
+  },
+  {
+    "id": "magicbrush_0021",
+    "image": "images/magicbrush_0021.png",
+    "target_mask": "masks/magicbrush_0021_mask.png",
+    "instruction": "remove the yellow flowers",
+    "target_image": "targets/magicbrush_0021_target.png",
+    "mask_semantics": "white_edit"
+  },
+  {
+    "id": "magicbrush_0022",
+    "image": "images/magicbrush_0022.png",
+    "target_mask": "masks/magicbrush_0022_mask.png",
+    "instruction": "let a rat sniff the broccoli",
+    "target_image": "targets/magicbrush_0022_target.png",
+    "mask_semantics": "white_edit"
+  },
+  {
+    "id": "magicbrush_0023",
+    "image": "images/magicbrush_0023.png",
+    "target_mask": "masks/magicbrush_0023_mask.png",
+    "instruction": "add a plate of meat",
+    "target_image": "targets/magicbrush_0023_target.png",
+    "mask_semantics": "white_edit"
+  },
+  {
+    "id": "magicbrush_0024",
+    "image": "images/magicbrush_0024.png",
+    "target_mask": "masks/magicbrush_0024_mask.png",
+    "instruction": "the ocean should have waves.",
+    "target_image": "targets/magicbrush_0024_target.png",
+    "mask_semantics": "white_edit"
+  },
+  {
+    "id": "magicbrush_0025",
+    "image": "images/magicbrush_0025.png",
+    "target_mask": "masks/magicbrush_0025_mask.png",
+    "instruction": "Change the cat to a rat.",
+    "target_image": "targets/magicbrush_0025_target.png",
+    "mask_semantics": "white_edit"
+  },
+  {
+    "id": "magicbrush_0026",
+    "image": "images/magicbrush_0026.png",
+    "target_mask": "masks/magicbrush_0026_mask.png",
+    "instruction": "Make the suitcase red.",
+    "target_image": "targets/magicbrush_0026_target.png",
+    "mask_semantics": "white_edit"
+  },
+  {
+    "id": "magicbrush_0027",
+    "image": "images/magicbrush_0027.png",
+    "target_mask": "masks/magicbrush_0027_mask.png",
+    "instruction": "replace the truck with a bus",
+    "target_image": "targets/magicbrush_0027_target.png",
+    "mask_semantics": "white_edit"
+  },
+  {
+    "id": "magicbrush_0028",
+    "image": "images/magicbrush_0028.png",
+    "target_mask": "masks/magicbrush_0028_mask.png",
+    "instruction": "replace the american flag with a red flag",
+    "target_image": "targets/magicbrush_0028_target.png",
+    "mask_semantics": "white_edit"
+  },
+  {
+    "id": "magicbrush_0029",
+    "image": "images/magicbrush_0029.png",
+    "target_mask": "masks/magicbrush_0029_mask.png",
+    "instruction": "let her bite the hot dog",
+    "target_image": "targets/magicbrush_0029_target.png",
+    "mask_semantics": "white_edit"
+  },
+  {
+    "id": "magicbrush_0030",
+    "image": "images/magicbrush_0030.png",
+    "target_mask": "masks/magicbrush_0030_mask.png",
+    "instruction": "make her wear a baseball hat",
+    "target_image": "targets/magicbrush_0030_target.png",
+    "mask_semantics": "white_edit"
+  },
+  {
+    "id": "magicbrush_0031",
+    "image": "images/magicbrush_0031.png",
+    "target_mask": "masks/magicbrush_0031_mask.png",
+    "instruction": "have a bird stand on the zebras head.",
+    "target_image": "targets/magicbrush_0031_target.png",
+    "mask_semantics": "white_edit"
+  },
+  {
+    "id": "magicbrush_0032",
+    "image": "images/magicbrush_0032.png",
+    "target_mask": "masks/magicbrush_0032_mask.png",
+    "instruction": "have the zebra bent over a hay pile",
+    "target_image": "targets/magicbrush_0032_target.png",
+    "mask_semantics": "white_edit"
+  },
+  {
+    "id": "magicbrush_0033",
+    "image": "images/magicbrush_0033.png",
+    "target_mask": "masks/magicbrush_0033_mask.png",
+    "instruction": "have a bucket hang off the fence",
+    "target_image": "targets/magicbrush_0033_target.png",
+    "mask_semantics": "white_edit"
+  },
+  {
+    "id": "magicbrush_0034",
+    "image": "images/magicbrush_0034.png",
+    "target_mask": "masks/magicbrush_0034_mask.png",
+    "instruction": "Let the zebra sit.",
+    "target_image": "targets/magicbrush_0034_target.png",
+    "mask_semantics": "white_edit"
+  },
+  {
+    "id": "magicbrush_0035",
+    "image": "images/magicbrush_0035.png",
+    "target_mask": "masks/magicbrush_0035_mask.png",
+    "instruction": "change the cat to a fox.",
+    "target_image": "targets/magicbrush_0035_target.png",
+    "mask_semantics": "white_edit"
+  },
+  {
+    "id": "magicbrush_0036",
+    "image": "images/magicbrush_0036.png",
+    "target_mask": "masks/magicbrush_0036_mask.png",
+    "instruction": "make the cat lick its nose",
+    "target_image": "targets/magicbrush_0036_target.png",
+    "mask_semantics": "white_edit"
+  },
+  {
+    "id": "magicbrush_0037",
+    "image": "images/magicbrush_0037.png",
+    "target_mask": "masks/magicbrush_0037_mask.png",
+    "instruction": "Let the mirror turn into a window.",
+    "target_image": "targets/magicbrush_0037_target.png",
+    "mask_semantics": "white_edit"
+  },
+  {
+    "id": "magicbrush_0038",
+    "image": "images/magicbrush_0038.png",
+    "target_mask": "masks/magicbrush_0038_mask.png",
+    "instruction": "Make the man not swing but hold the bat down towards the ground.",
+    "target_image": "targets/magicbrush_0038_target.png",
+    "mask_semantics": "white_edit"
+  },
+  {
+    "id": "magicbrush_0039",
+    "image": "images/magicbrush_0039.png",
+    "target_mask": "masks/magicbrush_0039_mask.png",
+    "instruction": "Make the man's pants all white.",
+    "target_image": "targets/magicbrush_0039_target.png",
+    "mask_semantics": "white_edit"
+  },
+  {
+    "id": "magicbrush_0040",
+    "image": "images/magicbrush_0040.png",
+    "target_mask": "masks/magicbrush_0040_mask.png",
+    "instruction": "Make it a black sheep.",
+    "target_image": "targets/magicbrush_0040_target.png",
+    "mask_semantics": "white_edit"
+  },
+  {
+    "id": "magicbrush_0041",
+    "image": "images/magicbrush_0041.png",
+    "target_mask": "masks/magicbrush_0041_mask.png",
+    "instruction": "A dog should be near the sheep.",
+    "target_image": "targets/magicbrush_0041_target.png",
+    "mask_semantics": "white_edit"
+  },
+  {
+    "id": "magicbrush_0042",
+    "image": "images/magicbrush_0042.png",
+    "target_mask": "masks/magicbrush_0042_mask.png",
+    "instruction": "What if there is flowers on the vase on the toilet?",
+    "target_image": "targets/magicbrush_0042_target.png",
+    "mask_semantics": "white_edit"
+  },
+  {
+    "id": "magicbrush_0043",
+    "image": "images/magicbrush_0043.png",
+    "target_mask": "masks/magicbrush_0043_mask.png",
+    "instruction": "change the green ball to blue",
+    "target_image": "targets/magicbrush_0043_target.png",
+    "mask_semantics": "white_edit"
+  },
+  {
+    "id": "magicbrush_0044",
+    "image": "images/magicbrush_0044.png",
+    "target_mask": "masks/magicbrush_0044_mask.png",
+    "instruction": "make the dog leaf",
+    "target_image": "targets/magicbrush_0044_target.png",
+    "mask_semantics": "white_edit"
+  },
+  {
+    "id": "magicbrush_0045",
+    "image": "images/magicbrush_0045.png",
+    "target_mask": "masks/magicbrush_0045_mask.png",
+    "instruction": "add a dog bowl",
+    "target_image": "targets/magicbrush_0045_target.png",
+    "mask_semantics": "white_edit"
+  },
+  {
+    "id": "magicbrush_0046",
+    "image": "images/magicbrush_0046.png",
+    "target_mask": "masks/magicbrush_0046_mask.png",
+    "instruction": "Let the player wear white socks.",
+    "target_image": "targets/magicbrush_0046_target.png",
+    "mask_semantics": "white_edit"
+  },
+  {
+    "id": "magicbrush_0047",
+    "image": "images/magicbrush_0047.png",
+    "target_mask": "masks/magicbrush_0047_mask.png",
+    "instruction": "swap the motorcycle for a car",
+    "target_image": "targets/magicbrush_0047_target.png",
+    "mask_semantics": "white_edit"
+  },
+  {
+    "id": "magicbrush_0048",
+    "image": "images/magicbrush_0048.png",
+    "target_mask": "masks/magicbrush_0048_mask.png",
+    "instruction": "remove the tent and add a bonfire",
+    "target_image": "targets/magicbrush_0048_target.png",
+    "mask_semantics": "white_edit"
+  },
+  {
+    "id": "magicbrush_0049",
+    "image": "images/magicbrush_0049.png",
+    "target_mask": "masks/magicbrush_0049_mask.png",
+    "instruction": "let the cat be white",
+    "target_image": "targets/magicbrush_0049_target.png",
+    "mask_semantics": "white_edit"
+  }
+]
